@@ -1,7 +1,5 @@
 # 🎵 DN-1000F Web Emulator
 
-[![GitHub](https://badgen.net/badge/github/%23000000?style=for-the-badge&label=)](https://github.com/jasonbra1n/Denon-DN-1000F-Web-Emulator)
-
 A **modern web-based emulator** for the classic **Denon DN-1000F CD player**, bringing back its iconic functionality to your browser using **Web Audio API** and **JavaScript Media Tags**.
 
 ---
